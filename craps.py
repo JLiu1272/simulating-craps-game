@@ -249,5 +249,5 @@ class Solutions(object):
 s = Solutions()
 dice = Dice()
 
-times = 10
+times = 1000000
 s.simCraps(times)
